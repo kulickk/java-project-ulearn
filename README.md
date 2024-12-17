@@ -31,3 +31,7 @@ Main.java - для запуска задач</br>
 
 Задача 3 - Вывести в консоль имя и компанию бизнесмена из США, имеющего самый большой капитал в сфере Energy.<br></br>
 ![Задача 3](image-2.png)
+
+### Запуск
+<code>git clone https://github.com/kulickk/java-project-ulearn.git</code><br></br>
+Запустить Main.java
